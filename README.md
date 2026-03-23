@@ -21,7 +21,7 @@
 
 - 🧰 **Synkbiotica Jobs** - Un portal de trabajo para todas las personas **(Actualmente en desarrollo)**.
 - 💒 **[Amooores](https://amooores.vercel.app)** - Un proyecto enfocado en elaborar invitaciones de boda.
-- 💎 **NunuLove Store** - Una tienda/catalogo en línea para [Nunu Love](https://instagram.com/nunu_love.hn) **(Actualmente en desarrollo)**.
+- 💎 **[NunuLove Store](https://nunulove.vercel.app)** - Una tienda/catalogo en línea para [Nunu Love](https://instagram.com/nunu_love.hn).
 - 👰 **[Boda Avila Barahona](https://boda-avila-barahona.vercel.app)** - Una invitación de boda personalizada con un tema azul marino, blanco y dorado.
 - 🧑‍⚖️ **[Veredicta](https://veredicta-brown.vercel.app/)** - Una landing page de practica para un bufete de abogados.
 - 📑 **[Zuma](https://zuma.paulbarahona.com)** - Una herramientas de resumenes con IA sobre las versiones de repositorios de github.
