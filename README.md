@@ -19,7 +19,7 @@
 
 ## Projectos Destacados
 
-- 🧰 **Synkbiotica Jobs** - Un portal de trabajo para todas las personas **(Actualmente en desarrollo)**.
+- ⚡ **[@pauldvlp/vp-templates](https://github.com/pauldvlp/vp-templates)** - Una colección de plantillas para proyectos de [VitePlus](https://viteplus.dev/)
 - 💒 **[Amooores](https://amooores.vercel.app)** - Un proyecto enfocado en elaborar invitaciones de boda.
 - 💎 **[NunuLove Store](https://nunulove.vercel.app)** - Una tienda/catalogo en línea para [Nunu Love](https://instagram.com/nunu_love.hn).
 - 👰 **[Boda Avila Barahona](https://boda-avila-barahona.vercel.app)** - Una invitación de boda personalizada con un tema azul marino, blanco y dorado.
